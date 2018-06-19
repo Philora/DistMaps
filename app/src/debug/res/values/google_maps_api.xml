@@ -1,6 +1,8 @@
 <resources>
     <!--
     TODO: Before you run your application, you need a Google Maps API key.
+    TODO: Before you run your application, you need a Google MapsPOJO API key.
+>>>>>>> 6e990ee870c89ba4be60da066b283b6bdeafefbd
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
