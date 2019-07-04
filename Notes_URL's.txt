@@ -1,0 +1,11 @@
+https://www.youtube.com/results?search_query=retrofit+saml+authentication+android
+https://stackoverflow.com/questions/50857616/constraintlayout-center-align-image-and-text
+Retrofit Tutorial — Token Authentication
+https://www.youtube.com/watch?v=by-pChg9_A4
+Android Networking - Retrofit, OkHttp, Interceptors and JWT Token - MindOrks BootCamp Lecture
+https://www.youtube.com/watch?v=tPIdWALEVLc
+https://stackoverflow.com/questions/3876680/is-it-possible-to-add-an-array-or-object-to-sharedpreferences-on-android
+https://stackoverflow.com/questions/38418809/add-cookies-to-retrofit-2-request
+https://www.google.com/search?q=mvvm+retrofit+login+android&rlz=1C1GCEA_enIN856IN856&oq=mvvm+retrofit+login+android&aqs=chrome..69i57.8399j0j1&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=cookies+interceptor+android+example&rlz=1C1GCEA_enIN856IN856&oq=cookies+interceptor+android+example&aqs=chrome..69i57.9743j0j4&sourceid=chrome&ie=UTF-8
+http://codezlab.com/add-cookies-interceptor-using-retrofit-android/
